@@ -25,14 +25,14 @@ export const EXPERIENCES = [
   {
     year: "2021 - 2022",
     role: "Full Stack Developer",
-    company: "Facebook",
+    company: "Panthera tech school",
     description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
     technologies: ["Python", "Svelte", "Three.js", "Postgres"],
   },
   {
     year: "2020 - 2021",
     role: "Software Engineer",
-    company: "Paypal",
+    company: "Panthera Tech School",
     description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
     technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
   },
