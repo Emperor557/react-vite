@@ -27,7 +27,6 @@ export default defineConfig({
   },
 
   server: {
-    port: 3000,            // Dev server port
     open: true             // Automatically open in browser
   }
 })
